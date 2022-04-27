@@ -1,7 +1,7 @@
 :root{
     --menuWidth: 200px;
     --detailsWidth: 300px;
-    --border: solid 10px;
+    --border: solid 1px;
 }
 
 html {
@@ -22,8 +22,8 @@ html {
   h4, 
   h5, 
   h6, 
-  p, 
-  ol, 
+  p,
+  ol,
   ul {
     margin: 0;
     padding: 0;
@@ -33,7 +33,7 @@ html {
   ol, 
   ul {
     list-style: none;
-  }
+  } 
   
   img {
     max-width: 100%;
