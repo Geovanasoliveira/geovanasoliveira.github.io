@@ -13,5 +13,8 @@
     "node"
   ],
   "author": "Geovana Oliveira",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
